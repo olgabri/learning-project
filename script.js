@@ -55,3 +55,13 @@ const fruits = ['apple', 'orange', 'cherry']
 // console.log(fruits[2]); //=> get element from array
 
 // console.log(typeof fruits); //=> detect type of variable
+
+// type conversions
+let x = 1
+console.log(typeof x);
+x = String(x) // '1'
+console.log(typeof x)
+x = Boolean(x) // true
+console.log(typeof x)
+x = Number (x) // 1
+console.log(typeof x)
