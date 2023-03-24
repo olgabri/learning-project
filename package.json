@@ -1,0 +1,16 @@
+{
+  "name": "learning-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "npx tsc --project ./",
+    "dev": "npx tsc --watch --project ./"
+  },
+  "keywords": [],
+  "author": "Olga Klyshko",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
