@@ -25,3 +25,20 @@ body {
     /* width: 250px; */
     height: 300px;
 }
+
+.buttons {
+    margin: 30px;
+}
+
+.button {
+    height: 40px;
+    width: 100px;
+}
+
+.button-ok {
+    background-color: greenyellow;
+}
+
+.button-cancel {
+    background-color: coral;
+}
